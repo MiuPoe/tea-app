@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707523067674",
+    "project_id": "tea-child-assistant",
+    "storage_bucket": "tea-child-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707523067674:android:86da111bf236af257ef6a3",
+        "android_client_info": {
+          "package_name": "com.company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707523067674-c1nkrm48sqgnpkjif5bb177g5e5mjeos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSaG5h0clt9Ujt3IVJWXXG99wTkR1FmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707523067674-c1nkrm48sqgnpkjif5bb177g5e5mjeos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
